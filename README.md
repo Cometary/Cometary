@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   
-  <img alt="Java" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=java&logoColor=white" />
   <img alt="JSP" src="https://img.shields.io/badge/-JSP-43853d?style=flat-square&logo=JSP&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-43853d?style=flat-square&logo=Javascript&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
