@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-43853d?style=flat-square&logo=Oracle&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-43853d?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Mybatis" src="https://img.shields.io/badge/-Mybatis-43853d?style=flat-square&logo=Mybatis&logoColor=white" />
-  <img alt="Html" src="https://img.shields.io/badge/-Html-43853d?style=flat-square&logo=Html&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-43853d?style=flat-square&logo=CSS&logoColor=white" />
+  <img alt="Html" src="https://img.shields.io/badge/-Html-43853d?style=flat-square&logo=Html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-43853d?style=flat-square&logo=CSS3&logoColor=white" />
   
 </p>
