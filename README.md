@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>My Tech Stack</h3>
 
 <p>
-  <img alt="C#" src="https://img.shields.io/badge/-C#-512BD4?style=flat-square&logo=react&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-csharp-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-007acc?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-476e97?style=flat-square&logo=MySQL&logoColor=white" />
